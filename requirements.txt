@@ -3,6 +3,6 @@
 
 pandas
 numpy
-joblib==0.13.2
+joblib==1.2.0
 scikit-learn
 pytest
